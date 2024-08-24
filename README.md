@@ -7,7 +7,7 @@ pkg install git
 
 pkg install python -y
 
-git clone https://github.com/cracker911181/Osint
+git clone https://github.com/EagleCyber-74/Osint
 
 cd Osint
 
